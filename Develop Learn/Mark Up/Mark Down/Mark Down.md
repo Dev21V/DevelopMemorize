@@ -81,8 +81,8 @@ This is an H2
 ###### This is an H6
 ^MDheader
 ### 2.2. Horizontal Rules 수평선
-> - 또는 * 또는 _ 를 3개 이상 작성.
-> 단 -을 사용할 경우 header로 인식할 수 있으니 이 전 라인은 비워두어야 함.
+	 - 또는 * 또는 _ 를 3개 이상 작성.
+	 단 -을 사용할 경우 header로 인식할 수 있으니 이 전 라인은 비워두어야 함.
 
 	***
 	******
@@ -110,9 +110,9 @@ We fly away, All night All day <br>
 오늘 밤의 짜릿함
 
 ### 2.4. Emphasis 강조
-> 기울여 쓰기(Itatic) : * 혹은 _ 로 감싼 텍스트.
-> 두껍게 쓰기(Bold): ** 또는 __ 로 감싼 텍스트.
-> 취소선: ~~ 로 감싼 텍스트
+	 기울여 쓰기(Itatic) : * 혹은 _ 로 감싼 텍스트.
+	 두껍게 쓰기(Bold): ** 또는 __ 로 감싼 텍스트.
+	 취소선: ~~ 로 감싼 텍스트
 
 	_This will be Itatic_
 	**This will be bold**
