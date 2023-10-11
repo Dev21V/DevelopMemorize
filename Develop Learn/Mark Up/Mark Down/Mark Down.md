@@ -79,7 +79,7 @@ This is an H2
 #### This is an H4
 ##### This is an H5
 ###### This is an H6
-^MDheader
+
 ### 2.2. Horizontal Rules 수평선
 	 - 또는 * 또는 _ 를 3개 이상 작성.
 	 단 -을 사용할 경우 header로 인식할 수 있으니 이 전 라인은 비워두어야 함.
@@ -114,15 +114,15 @@ We fly away, All night All day <br>
 	 두껍게 쓰기(Bold): ** 또는 __ 로 감싼 텍스트.
 	 취소선: ~~ 로 감싼 텍스트
 
-	_This will be Itatic_
-	**This will be bold**
-	~~This will be cancled~~
-	_You **can** ~~combine~~ them_
+	_This will be Itatic_   
+	**This will be bold**   
+	~~This will be cancled~~   
+	_You **can** ~~combine~~ them_   
 
-_This will be Italic_
-**This will be bold**
-~~This wiill be cancled~~
-_You **can** ~~combine~~ them_
+_This will be Italic_   
+**This will be bold**   
+~~This wiill be cancled~~   
+_You **can** ~~combine~~ them_   
 
 ### 2.5. Blockquotes 인용
 	> 으로 시작하는 Text
